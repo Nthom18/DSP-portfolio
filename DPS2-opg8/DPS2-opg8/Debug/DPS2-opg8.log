@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\nicol\onedrive - finman aps\sdu robotteknoligi\3. semester\dsp\afleveringer\portfolio 2\dsp-portfolio\dps2-opg8\dps2-opg8\cascade.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\nicol\onedrive - finman aps\sdu robotteknoligi\3. semester\dsp\afleveringer\portfolio 2\dsp-portfolio\dps2-opg8\dps2-opg8\realization_structure.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+c:\users\nicol\onedrive - finman aps\sdu robotteknoligi\3. semester\dsp\afleveringer\portfolio 2\dsp-portfolio\dps2-opg8\dps2-opg8\main.cpp(9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DPS2-opg8.vcxproj -> C:\Users\nicol\OneDrive - Finman ApS\SDU Robotteknoligi\3. Semester\DSP\Afleveringer\Portfolio 2\DSP-portfolio\DPS2-opg8\Debug\DPS2-opg8.exe
