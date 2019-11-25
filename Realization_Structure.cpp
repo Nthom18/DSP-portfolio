@@ -35,7 +35,7 @@ public:
 
 
 	double DirectForm2(double n) {
-		double res=0;
+		double res = 0;
 		for (size_t i = 0; i < H_Numerator.size(); i++)
 		{
 			 res += H_Numerator[i] * W(n - i);
@@ -45,7 +45,7 @@ public:
 
 	void PrintDirectForm2() {
 	
-		std::cout<<"y(n) = ";
+		std::cout << "y(n) = ";
 		for (size_t i = 0; i < H_Numerator.size(); i++)
 		{
 			if (H_Numerator[i] != 0)
@@ -75,8 +75,7 @@ public:
 					{
 						std::cout << ")"<<std::endl;
 					}
-			}
-			
+			}	
 		}
 	};
 
