@@ -5,8 +5,8 @@
 
 int main() {
 
-	double lenght = 100;
-	Cascade filter(lenght);
-
+	double length = 100;
+	Cascade filter(length);
+	system("pause");
 	return 0;
 }
